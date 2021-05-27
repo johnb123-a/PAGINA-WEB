@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+span{
+    width: 100%;
+    height: 100%;
+}
+#hola .container .row > div{
+    background: #000000;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#separator-ribbon{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+#PERSONAJES{
+    margin-top: 0%;
+    background-color: black;
+}
+#PERSONAJES h3{
+    margin-top: -10%;
+}
+#EPISODIOS .container .row > div{
+    background: #000000;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS .container .row .row > div{
+    background: #ff0000;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS_2 .container .row > div{
+    background: #252424;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS_2 .container .row .row > div{
+    background: #fb1b1b;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS_3 .container .row > div{
+    background: #5a5757;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS_3 .container .row .row > div{
+    background: #fa2222;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS_4 .container .row > div{
+    background: #a8a0a0;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#EPISODIOS_4 .container .row .row > div{
+    background: #fb3131;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#ENEMIGOS{
+    background: #ffffff;
+    padding: 30px;
+    border: 5px solid rgb(0, 0, 0);
+}
+#HOLA .text-aling-center{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    size: 50000px;  
+}
+#VIDEO{
+    margin-top: 0%;
+    padding-left: 30%;
+    background-color:#000000;
+}
+#TEST{
+    margin-top: -2%;
+    background-color:#000000;
+}
